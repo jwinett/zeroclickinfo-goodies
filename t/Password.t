@@ -56,7 +56,7 @@ ddg_goodie_test(
     'excavate strong password' => undef,
     'not another strong pw' => undef,
     'generator' => undef,
-    'potatoe generator' => undef
+    'potato generator' => undef
 );
 
 done_testing
